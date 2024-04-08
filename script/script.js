@@ -263,6 +263,10 @@ function showdata() {
   sectionsList.innerHTML = List;
 }
 
+
+// شخبطة لتدقق بيها
+
+
 // function loopItems() {
 //     var divItemsLink = document.querySelector("#items1");
 
